@@ -30,7 +30,7 @@ dependencies {
 // Define the main class for the application
 mainClassName = 'App'
 task display{
-doLast{
-println 'welcome'
-}
+    doLast{
+        println 'Welcome'
+    }
 }
