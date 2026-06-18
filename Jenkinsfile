@@ -7,7 +7,7 @@ pipeline{
 	stages{
 		stage('Checkout'){
 			steps{
-				git branch:'main',url:'https://github.com/LikithReddy0409/Exam4.git'
+				git branch:'main',url:'https://github.com/LikithReddy0409/Exam2.git'
 			}
 		}
 
